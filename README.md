@@ -11,5 +11,5 @@
 • GitHub </br>
 
 ### ⚙️ 주요 기능
-#### &nbsp;&nbsp;&nbsp; 로그인
+### &nbsp;&nbsp;&nbsp; 로그인
  • DB 값 검증
