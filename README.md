@@ -12,8 +12,8 @@
 
 ### ⚙️ 주요 기능
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 로그인
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • DB 값 검증</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 로그인 시 세션(Session) 생성</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • DB 값 검증</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 로그인 시 세션(Session) 생성</br>
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 회원가입
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • ID 중복체크</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 비밀번호 문자형식 체크</br>
