@@ -1,7 +1,7 @@
 ### 🖥️ 프로젝트 소개
 프로젝트를 함께 진행할 사람들을 만나기 위한 웹 사이트입니다.</br></br>
 
-![projectorsMain](https://github.com/JuYeon-Jin/board_test/assets/123148365/7ceeb84c-3ed8-4e23-9f34-328bede02e04)</br>
+![projectorsMain](https://github.com/JuYeon-Jin/board_test/assets/123148365/7ceeb84c-3ed8-4e23-9f34-328bede02e04)</br></br>
 ![projectorsMain2](https://github.com/JuYeon-Jin/board_test/assets/123148365/59f93ddf-fb49-4abd-998d-84e106657038)
 </br></br>
 
