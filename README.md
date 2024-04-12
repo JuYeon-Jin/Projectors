@@ -12,6 +12,8 @@
 • Apache Tomcat ( Version : 8.5.8)</br>
 • SpringFramework ( Version : 3.0.2 RELEASE)</br>
 • Jstl ( Version : 1.1.2)</br>
+• Jsp</br>
+• Windows 10</br>
 • GitHub </br>
 </br>
 ### ⚙️ 주요 기능
